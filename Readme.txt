@@ -1,1 +1,1 @@
- URL: https://dhijinchandran.github.io/dakshin.github.io/
+ URL: https://dhijinchandran.github.io/dakshin-static.github.io/#
